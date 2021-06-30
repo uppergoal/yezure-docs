@@ -1,6 +1,6 @@
 ---
 title: Une contestation
-description: ''
+description: 'Découvrez comment créer et gérer une contestation'
 position: 3.40
 category: Guide
 ---

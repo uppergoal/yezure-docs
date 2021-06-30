@@ -1,6 +1,6 @@
 ---
 title: Cancellation
-description: ''
+description: 'Terms of cancellation'
 position: 4.60
 category: Terms
 ---

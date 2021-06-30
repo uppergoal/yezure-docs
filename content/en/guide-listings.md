@@ -1,6 +1,6 @@
 ---
 title: Manage your listings
-description: ''
+description: 'Find how to manage your listings'
 position: 3.10
 category: Guide
 ---

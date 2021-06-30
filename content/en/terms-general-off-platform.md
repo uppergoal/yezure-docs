@@ -1,6 +1,6 @@
 ---
 title: Off-platform policy
-description: ''
+description: 'Terms and policies for off-platform'
 position: 4.90
 category: Terms
 ---

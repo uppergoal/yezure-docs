@@ -1,12 +1,7 @@
 ---
 title: Introduction
-description: ''
+description: 'Trouvez ce dont vous avez besoin pour votre prochaine aventure avec Yezure. Des équipements sportifs aux articles de rénovation en passant par les appareils électroniques, Yezure est le marché idéal pour partager et louer ce dont vous aurez besoin pour votre prochain projet. rendu possible par vous sur Yezure.'
 position: 1
-category: ''
-features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
 ---
 
 <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>

@@ -1,6 +1,6 @@
 ---
 title: Insurances
-description: ''
+description: 'Terms for insurance'
 position: 4.90
 category: Terms
 ---

@@ -1,6 +1,6 @@
 ---
 title: Politique hors plate-forme
-description: ''
+description: 'Termes et politiques pour hors plate-forme'
 position: 4.90
 category: Termes
 ---

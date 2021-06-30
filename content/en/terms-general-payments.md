@@ -1,6 +1,6 @@
 ---
 title: Payments & payout
-description: ''
+description: 'Terms for payment and payout'
 position: 4.40
 category: Terms
 ---

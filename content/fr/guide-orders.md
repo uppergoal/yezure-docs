@@ -1,6 +1,6 @@
 ---
 title: Vos commandes
-description: ''
+description: 'Découvrez comment gérer vos commandes'
 position: 3.20
 category: Guide
 ---

@@ -1,6 +1,6 @@
 ---
 title: Témoins (cookies)
-description: ''
+description: 'Conditions de gestion des cookies'
 position: 4.70
 category: Termes
 ---

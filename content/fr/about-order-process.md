@@ -1,6 +1,6 @@
 ---
 title: processus de commande
-description: ''
+description: 'Le processus de statut d'une commande'
 position: 2.20
 category: About
 ---

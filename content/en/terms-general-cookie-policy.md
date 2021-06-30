@@ -1,6 +1,6 @@
 ---
 title: Cookies
-description: ''
+description: 'Terms for cookies management'
 position: 4.70
 category: Terms
 ---

@@ -1,6 +1,6 @@
 ---
 title: Getting started
-description: ''
+description: 'Getting started using Yezure'
 position: 2.01
 category: About
 ---

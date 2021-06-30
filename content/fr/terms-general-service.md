@@ -1,6 +1,6 @@
 ---
 title: Conditions de services
-description: ''
+description: 'Terms of services for Yezure'
 position: 4.20
 category: Termes
 ---

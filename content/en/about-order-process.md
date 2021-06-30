@@ -1,6 +1,6 @@
 ---
 title: Order process
-description: ''
+description: 'The status process of an order'
 position: 2.02
 category: About
 ---

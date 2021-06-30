@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: ''
+description: 'Contactez Yezure pour un meilleur support'
 position: 2.30
 category: About
 ---

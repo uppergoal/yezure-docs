@@ -1,6 +1,6 @@
 ---
 title: Counteroffer
-description: ''
+description: 'Find how to create and manage a counteroffer'
 position: 3.50
 category: Guide
 ---

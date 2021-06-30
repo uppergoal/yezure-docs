@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-description: ''
+description: 'Privacy policy for Yezure'
 position: 4.10
 category: Terms
 ---

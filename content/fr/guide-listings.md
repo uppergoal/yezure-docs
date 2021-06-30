@@ -1,6 +1,6 @@
 ---
 title: Gestion des Annonces
-description: ''
+description: 'Découvrez comment gérer vos annonces'
 position: 3.10
 category: Guide
 ---

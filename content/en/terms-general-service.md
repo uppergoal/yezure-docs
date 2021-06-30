@@ -1,6 +1,6 @@
 ---
 title: Terms of services
-description: ''
+description: 'Terms of services for Yezure'
 position: 4.20
 category: Terms
 ---

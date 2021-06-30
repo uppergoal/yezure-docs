@@ -1,6 +1,6 @@
 ---
 title: Assurances
-description: ''
+description: "Conditions d'assurance"
 position: 4.90
 category: Termes
 ---

@@ -1,6 +1,6 @@
 ---
 title: Getting started
-description: ''
+description: 'Premiers pas avec Yezure'
 position: 2.10
 category: About
 ---

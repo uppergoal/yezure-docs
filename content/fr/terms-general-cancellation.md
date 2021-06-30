@@ -1,6 +1,6 @@
 ---
 title: Annulation
-description: ''
+description: "Conditions d'annulation"
 position: 4.60
 category: Termes
 ---

@@ -1,6 +1,6 @@
 ---
 title: Une contre-offre
-description: ''
+description: 'Découvrez comment créer et gérer une contre-offre'
 position: 3.50
 category: Guide
 ---

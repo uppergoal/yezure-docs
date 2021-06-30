@@ -1,6 +1,6 @@
 ---
 title: Paiements et versement
-description: ''
+description: 'Modalités de paiement et de versement'
 position: 4.40
 category: Termes
 ---

@@ -1,6 +1,6 @@
 ---
 title: Politique de confidentialité
-description: ''
+description: 'Politique de confidentialité de Yezure'
 position: 4.10
 category: Termes
 ---
