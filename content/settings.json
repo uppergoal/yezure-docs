@@ -1,0 +1,10 @@
+{
+  "title": "Yezure doc",
+  "url": "docs.yezure.com",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "uppergoal/yezure-docs",
+  "twitter": "michael_bout"
+}
